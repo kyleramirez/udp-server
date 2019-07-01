@@ -1,0 +1,9 @@
+{
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "dgram": "^1.0.1"
+  }
+}
