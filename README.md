@@ -5,8 +5,8 @@ Will print all messages it receives.
 
 ### Install
 
-    npm -i
+    npm install
 
 ### Start Server
 
-    yarn start
+    npm start
